@@ -116,7 +116,7 @@ For the visualization step, `plt.subplots(1, 3, figsize=(15, 5))` sets up a 1x3 
 
 To see the main Python program for Experiment 4, click this link https://github.com/Matt-Mallari/ECE-2112-PA-4/blob/main/ECE_2112_PA4.ipynb, download the .ipynb file, open it in Jupyter Notebook, and run all cells.
 
-Moreover, the board2.xlsx file utilized for data frame creation can be found here:
+Moreover, the board2.xlsx file utilized for data frame creation can be found here: https://github.com/Matt-Mallari/ECE-2112-PA-4/blob/main/board2.xlsx
 
 
 ### **README File Version History**
